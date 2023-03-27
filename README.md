@@ -39,7 +39,7 @@ There are 2 datasets used for the analysis. 'matches' dataset gives information 
   * Winning margin
   * Umpires
 
-On the other hand 'deliveries' dataset gives ball by ball information on every match played during 2008 - 2018. In a nutshell it provides information on the following
+On the other hand 'deliveries' dataset gives ball by ball information on every match played during 2008 - 2022. In a nutshell it provides information on the following
 
   * Runs scored per ball
   * Extras by bowlers/fielding team
